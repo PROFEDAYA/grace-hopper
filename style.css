@@ -1,7 +1,8 @@
-h1 {
+body {
+background-color: blue;
 font-size: 30px;
 text-align: center;
-
+}
 
 .texto {
     text-align: center;
@@ -10,5 +11,5 @@ text-align: center;
     background-color: #489ce1;
 }
 
-}
+
 
